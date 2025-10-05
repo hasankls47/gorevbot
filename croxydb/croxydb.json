@@ -1,0 +1,219 @@
+{
+  "aktif_gorev_tipi": "haftasonu",
+  "dagitim_mesaj_id": "1423436902823886888",
+  "arsiv": [
+    {
+      "timestamp": "2025-10-03T21:59:36.550Z",
+      "gorevler": [
+        {
+          "label": "12:30 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "12:30 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "15:00 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "15:00 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "18:00 İzleyici",
+          "takenBy": "1416867193442013204"
+        },
+        {
+          "label": "18:00 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "18:00 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "18:00 Live/Result",
+          "takenBy": "1408873581571735612"
+        },
+        {
+          "label": "18:00 2. Lobi İzleyici",
+          "takenBy": "745247635128188959"
+        },
+        {
+          "label": "21:00 İzleyici",
+          "takenBy": "1416867193442013204"
+        },
+        {
+          "label": "21:00 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "21:00 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "21:00 Live/Result",
+          "takenBy": "1408873581571735612"
+        },
+        {
+          "label": "00:30 İzleyici",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "00:30 Kurucu",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "00:30 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "00:30 Live/Result",
+          "takenBy": "1408873581571735612"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-04T23:03:56.371Z",
+      "gorevler": [
+        {
+          "label": "12:30 İzleyici",
+          "takenBy": "1407729607616106528"
+        },
+        {
+          "label": "12:30 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "12:30 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "12:30 Live/Result",
+          "takenBy": "1408873581571735612"
+        },
+        {
+          "label": "12:30 2. Lobi İzleyici",
+          "takenBy": "1387391117187874947"
+        },
+        {
+          "label": "15:00 İzleyici",
+          "takenBy": "1416867193442013204"
+        },
+        {
+          "label": "15:00 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "15:00 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "15:00 Live/Result",
+          "takenBy": "1408873581571735612"
+        },
+        {
+          "label": "15:00 2. Lobi İzleyici",
+          "takenBy": "1412466830739767307"
+        },
+        {
+          "label": "18:00 İzleyici",
+          "takenBy": "1416867193442013204"
+        },
+        {
+          "label": "18:00 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "18:00 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "18:00 Live/Result",
+          "takenBy": "1408873581571735612"
+        },
+        {
+          "label": "18:00 2. Lobi İzleyici",
+          "takenBy": "1412466830739767307"
+        },
+        {
+          "label": "21:00 İzleyici",
+          "takenBy": "1407729607616106528"
+        },
+        {
+          "label": "21:00 Kurucu",
+          "takenBy": "1352598923671240794"
+        },
+        {
+          "label": "21:00 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "21:00 Live/Result",
+          "takenBy": "1408873581571735612"
+        },
+        {
+          "label": "21:00 2. Lobi İzleyici",
+          "takenBy": "1111640303561101323"
+        },
+        {
+          "label": "00:30 İzleyici",
+          "takenBy": "745247635128188959"
+        },
+        {
+          "label": "00:30 Kurucu",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "00:30 Organizatör",
+          "takenBy": "1064709061418963014"
+        },
+        {
+          "label": "00:30 Live/Result",
+          "takenBy": "1408873581571735612"
+        },
+        {
+          "label": "00:30 2. Lobi İzleyici",
+          "takenBy": "1387391117187874947"
+        }
+      ]
+    }
+  ],
+  "gorev_12_30_kur": {
+    "status": "taken",
+    "takenBy": "1352598923671240794",
+    "date": "2025-10-04T23:05:37.240Z"
+  },
+  "gorev_15_00_kur": {
+    "status": "taken",
+    "takenBy": "1352598923671240794",
+    "date": "2025-10-04T23:05:37.242Z"
+  },
+  "gorev_18_00_kur": {
+    "status": "taken",
+    "takenBy": "1352598923671240794",
+    "date": "2025-10-04T23:05:37.243Z"
+  },
+  "gorev_21_00_kur": {
+    "status": "taken",
+    "takenBy": "1352598923671240794",
+    "date": "2025-10-04T23:05:37.245Z"
+  },
+  "gorev_21_00_org": {
+    "status": "taken",
+    "takenBy": "1352598923671240794",
+    "date": "2025-10-04T23:05:37.246Z"
+  },
+  "gorev_00_30_kur": {
+    "status": "taken",
+    "takenBy": "1352598923671240794",
+    "date": "2025-10-04T23:05:37.247Z"
+  },
+  "gorev_00_30_org": {
+    "status": "taken",
+    "takenBy": "1352598923671240794",
+    "date": "2025-10-04T23:05:37.249Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "gorev-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "codeworld": "^1.0.6",
+    "croxydb": "^0.0.26",
+    "discord.js": "^14.22.1"
+  }
+}

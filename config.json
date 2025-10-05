@@ -1,0 +1,22 @@
+{
+  "token": "MTMxNDkyODA2NzY2NzQzMTU0NA.GvoYja.7WS3UYizCMtzZuFo8EOaJ6GUaC3nXf3mqBSSlA",
+  "clientId": "1314928067667431544",
+  "guildId": "954491058820104242",
+  
+  "botSahipleri": ["688863176850145424"],
+
+  "dagitimKanalId": "1375824598800797847",
+  "onayRedKanalId": "1423415487362105475",
+  "gorevdatalog": "1423416134975230124",
+  "komutYetkiliRolId": "1328085777078550560",
+  "menuKullaniciRolId": "1328085802424467549",
+  "arsivYetkiliRolId": "1394735576573415445",
+
+  "uyk_dagitimKanalId": "1417876447808196678",
+  "uyk_onayRedKanalId": "1424183777785282631",
+  "uyk_gorevdatalog": "1424183865232195684",
+  "uyk_komutYetkiliRolId": "1328070715899121778",
+  "uyk_menuKullaniciRolId": "1328085777078550560",
+  "uyk_arsivYetkiliRolId": "1328070715899121778"
+
+}
